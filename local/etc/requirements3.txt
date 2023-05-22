@@ -7,7 +7,7 @@ cffi==1.15.0
 cssutils>=1.0.0
 htmlmin>=0.1.10
 pycparser==2.14
-requests==2.23.0
+requests==2.31.0
 PyYAML==5.4
 tqdm==4.43.0
 Pygments==2.7.4
